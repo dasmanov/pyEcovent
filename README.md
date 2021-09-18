@@ -57,3 +57,5 @@ This library has only been tested on the following fans:
 Fans from Flexit are identical and should work, but this is not yet tested:
 - [Single room ventilator Roomie Dual](https://www.flexit.no/en/products/single_room_ventilator/single_room_ventilator_roomie_dual/single_room_ventilator_roomie_dual/)
 
+add new branch main
+
